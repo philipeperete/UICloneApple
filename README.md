@@ -17,7 +17,7 @@ _________
 ## 🎨 Layout
 
 <p align="center">
-    <img alt="Apple" title="Apple" src="apple.gif" width="600px">
+    <img alt="Apple" title="Apple" src="apple.gif" width="800px">
 </p>
 _________
 
@@ -25,7 +25,9 @@ _________
 
 🍎 UI Clone Apple.
 
-Clone de Interface do site da Apple.
+Clone de Interface da Homepage da Apple.
+
+Data: 11/08/2020
 
 Projeto desenvolvido para melhorar o conhecimento em HTML + CSS.
 
